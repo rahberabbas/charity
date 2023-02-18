@@ -1928,7 +1928,8 @@ textarea.form-control {
     margin-bottom: 40px;
     letter-spacing: .1em;
     color: #fff !important;
-    font-family: "Gaegu", cursive; }
+    /* font-family: "Gaegu", cursive;  */
+  }
   .footer .block-21 .heading a {
     color: #fff !important; }
     .footer .block-21 .heading a:hover {
@@ -2177,7 +2178,8 @@ textarea.form-control {
     font-size: 40px;
     line-height: 1.1;
     margin-bottom: 50px;
-    font-family: "Gaegu", cursive; }
+    /* font-family: "Gaegu", cursive;  */
+  }
     @media (min-width: 768px) {
       .block-30 .heading {
         font-size: 80px; } }
@@ -2201,7 +2203,7 @@ textarea.form-control {
     min-height: 700px;
     height: 70vh; }
   .block-30.block-30-sm .heading {
-    font-size: 70px;
+    font-size: 50px;
     margin-bottom: 20px; }
   .block-30 .lead {
     color: #fff; }
