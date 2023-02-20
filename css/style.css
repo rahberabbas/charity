@@ -2178,14 +2178,19 @@ textarea.form-control {
     font-size: 40px;
     line-height: 1.1;
     margin-bottom: 50px;
+    font-weight: 800;
     /* font-family: "Gaegu", cursive;  */
   }
     @media (min-width: 768px) {
       .block-30 .heading {
-        font-size: 80px; } }
+        font-size: 80px; 
+        font-weight: 800;
+      } }
     @media (min-width: 992px) {
       .block-30 .heading {
-        font-size: 80px; } }
+        font-size: 80px; 
+        font-weight: 800;
+      } }
   .block-30 .btn {
     background: #fff;
     border-radius: 0;
@@ -2204,7 +2209,9 @@ textarea.form-control {
     height: 70vh; }
   .block-30.block-30-sm .heading {
     font-size: 50px;
-    margin-bottom: 20px; }
+    margin-bottom: 20px; 
+    font-weight: 800;
+  }
   .block-30 .lead {
     color: #fff; }
 
